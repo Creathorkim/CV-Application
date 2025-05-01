@@ -23,6 +23,3 @@ A modern and responsive CV Builder built with **React**, **Vite**, and **React B
 - React Bootstrap
 - JavaScript (ES6+)
 - Git & GitHub
-
----
->>>>>>> d3f07d7 (Initial commit - complete CV Builder app with React & Vite)
